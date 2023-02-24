@@ -15,8 +15,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![FireShot Capture 056 - Frontend Mentor - Stats preview card component_ - incredible-frangipane-afd452 netlify app](https://user-images.githubusercontent.com/106422023/221102029-f3d0d901-6670-45d4-9741-3807a785d53e.png)
-![FireShot Capture 057 - Frontend Mentor - Stats preview card component_ - incredible-frangipane-afd452 netlify app](https://user-images.githubusercontent.com/106422023/221102041-40932f8d-45bb-482c-b8cc-041e418d4612.png)
+![FireShot Capture 063 - Frontend Mentor - Stats preview card component_ - incredible-frangipane-afd452 netlify app](https://user-images.githubusercontent.com/106422023/221127944-06182f0e-6a77-44c3-8261-73a74f58c0bd.png)
+![FireShot Capture 064 - Frontend Mentor - Stats preview card component_ - incredible-frangipane-afd452 netlify app](https://user-images.githubusercontent.com/106422023/221127953-de37aa90-5968-470e-8ec6-d7c89467aaaa.png)
+
 
 ### Links
 
