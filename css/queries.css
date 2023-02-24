@@ -35,12 +35,11 @@
     border-bottom-right-radius: 0;
     border-top-left-radius: 6px;
     grid-row: 1;
-    background-image: linear-gradient(
-        hsl(277, 85%, 30%, 0.5),
-        hsl(277, 85%, 30%, 0.5)
-      ),
-      url(/images/image-header-mobile.jpg);
+    background-image: url(/images/image-header-mobile.jpg);
     background-size: cover;
+    background-color: hsl(277, 64%, 61%);
+    background-blend-mode: multiply;
+    opacity: 0.8;
   }
 
   .attribution {
