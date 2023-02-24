@@ -156,12 +156,11 @@ body {
   height: 26.875rem;
   border-top-right-radius: 6px;
   border-bottom-right-radius: 6px;
-  background-image: linear-gradient(
-      hsl(277, 85%, 30%, 0.5),
-      hsl(277, 85%, 30%, 0.5)
-    ),
-    url(/images/image-header-desktop.jpg);
+  background-image: url(/images/image-header-desktop.jpg);
   background-size: cover;
+  background-color: hsl(277, 64%, 61%);
+  background-blend-mode: multiply;
+  opacity: 0.8;
   overflow: hidden;
 }
 
