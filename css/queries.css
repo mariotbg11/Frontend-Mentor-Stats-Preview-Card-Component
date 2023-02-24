@@ -1,0 +1,67 @@
+@media (max-width: 28.5em) {
+  .stats-card {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr;
+  }
+
+  .stats-side {
+    height: 100%;
+    text-align: center;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+  }
+
+  .title-stats {
+    font-size: var(--26px);
+    padding: var(--54px) var(--70px) 0 var(--70px);
+  }
+
+  .desc {
+    padding: 0 var(--64px) 0 var(--64px);
+    margin-bottom: var(--48px);
+  }
+
+  .stats {
+    flex-direction: column;
+    gap: var(--26px);
+    padding: 0 var(--70px) var(--44px) var(--70px);
+  }
+
+  .img-side {
+    height: 20rem;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 6px;
+    grid-row: 1;
+    background-image: linear-gradient(
+        hsl(277, 85%, 30%, 0.5),
+        hsl(277, 85%, 30%, 0.5)
+      ),
+      url(/images/image-header-mobile.jpg);
+    background-size: cover;
+  }
+
+  .attribution {
+    margin-top: 30rem;
+  }
+}
+
+@media (max-width: 24em) {
+  .title-stats {
+    padding: var(--44px) var(--36px) 0 var(--36px);
+  }
+
+  .desc {
+    padding: 0 var(--36px) 0 var(--36px);
+  }
+
+  .img-side {
+    height: 16rem;
+  }
+
+  .attribution {
+    margin-top: 25rem;
+  }
+}
